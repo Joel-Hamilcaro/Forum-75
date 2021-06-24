@@ -1,4 +1,4 @@
-# FORUM 75  
+# Forum 75  
 
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
@@ -83,7 +83,7 @@ Toutes les tables (sauf utilisateurs) possèdent un attribut (colonne) "signale"
 qui sert au sytème de modération du site. Sa valeur est TRUE quand le contenu est signalé. Les
 administrateurs pourront remettre sa valeur à FALSE.
 
-## INITIALISATION DE LA DATABASE
+## Initialisation de la base de données
 
 - Se placer dans le répertoire 'forum75/'
 
@@ -117,7 +117,7 @@ mysql -u adminForum75 -p dataForum75
 source create_table.sql;
 ```
 
-## DEMARRAGE DU SERVEUR
+## Démarrage du serveur
 
 - Dans le terminal :
 
@@ -136,7 +136,7 @@ Mot de passe : 123
 Pseudo : admin-1
 Mot de passe : 123
 
-## SUPPRESSION DE LA DATABASE
+## Supression de la base de données
 
 - Dans le terminal :
 
