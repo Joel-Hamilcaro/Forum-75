@@ -1,6 +1,11 @@
-# FORUM 75
+# FORUM 75  
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
+
+*Projet réalisé en binôme dans le cadre du cours "Programmation Web"*   
+**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**   
+
 
 ## Rapport
 
@@ -54,9 +59,9 @@ plis.
 10. fonc_sortieParDefaut.php contient les fonctions d’affichage de la structure de la page
 HTML par défaut (en tête "<header>", "<nav>", "<section>", "<aside>")
 11. logout.php arrête la session en cours lorsqu’il est chargé.
-  
-### Le format de date des messages 
-  
+
+### Le format de date des messages
+
 Pour simplifier l’affichage des messages, nous avons choisi de stocker, dans la base de données,
 les dates des messages sous forme de chaînes de caractères du type "le Samedi 5 Mai 2018 à
 13:21:16". En effet, les dates de messages sont utilisées, dans la base de donnée, uniquement à
